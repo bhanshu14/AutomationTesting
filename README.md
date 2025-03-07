@@ -1,6 +1,8 @@
 Source Code of the project
 
-'''package org.examples.tests;
+
+```java
+package org.examples.tests;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -68,4 +70,4 @@ public class FinalProject {
 
 
     }
-}'''
+}
